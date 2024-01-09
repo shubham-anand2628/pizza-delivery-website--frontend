@@ -1,0 +1,29 @@
+a{
+    text-decoration: none;
+    
+    color: black;
+    font-size: large;
+    font-weight: bold;
+   
+}
+
+.dropdown ul li a{
+    padding: 50px;
+    margin: 10px;
+}
+.favourite  a{
+    margin: 10px;
+    padding: 10px;
+}
+
+
+.profile  a{
+    margin: 10px;
+    padding: 10px;
+}
+
+
+.cart a{
+    margin: 10px;
+    padding: 10px;
+}
